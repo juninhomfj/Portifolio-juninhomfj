@@ -16,7 +16,8 @@ a {
 }
 
 body {
-    background: url(.milky-way-2695569.jpg) no-repeat center center fixed
+        background: url(.milky-way-2695569.jpg) no-repeat center center fixed
+        background-size: cover;
     /*Image by <a href="https://pixabay.com/users/felixmittermeier-4397258/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2695569">FelixMittermeier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2695569">Pixabay</a>*/
    
     }
