@@ -22,7 +22,10 @@ a {
 body {
     height: 100vh;
      
-    background-image: linear-gradient(to bottom, #5a5758, #6b5a64, #775f76, #7b658c, #766ea5, #696aac, #5866b4, #3c63bc, #2b4fb2, #1d3aa7, #14239b, #12008c);        
+    /*background-image: linear-gradient(to bottom, #5a5758, #6b5a64, #775f76, #7b658c, #766ea5, #696aac, #5866b4, #3c63bc, #2b4fb2, #1d3aa7, #14239b, #12008c); */
+    
+    background-image: url("The-best.gif");
+    background-color: #cccccc;
         }
 
     .container {
